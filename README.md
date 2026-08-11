@@ -40,9 +40,10 @@ through TryHackMe labs, mapped to MITRE ATT&CK techniques.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Paths
 
-- CompTIA Security+ — Achieved May 2026
-- Microsoft AZ-900 Azure Fundamentals — Achieved 2025
-- Microsoft IT Support Specialist — 2026
-- BTL1 Blue Team Level 1 — In Progress
+
+- Tryhackme SOC 1
+- TryHackMe Pre Security
+- TryHackMe Cybersecurity 101
+
